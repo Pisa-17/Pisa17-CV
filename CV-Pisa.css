@@ -1,0 +1,56 @@
+body {
+    background-image: linear-gradient(to bottom, #40414F, #444654);
+    font-family: sans-serif;
+  }
+  footer{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    color: white;
+    margin-top: 5px;
+  }
+h1, h2{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+h3{
+    color: rgb(243, 8, 243);
+    font-style: italic;
+    padding: 5px;
+}
+p{
+    display: inline-block;
+    padding: 9px;
+}
+img{
+    height: 100px;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.fechas{
+    color: orange;
+}
+.green{
+    color: greenyellow;
+    font-weight: bold
+}
+.Part1{
+    background-color: #000000;
+    border: solid;
+    color: white;
+}
+.Part2{
+    background-color: #000000;
+    border: solid;
+    color: white;
+}
+.Part3{
+    background-color: #000000;
+    border: solid;
+    color: white;
+}
+
+
