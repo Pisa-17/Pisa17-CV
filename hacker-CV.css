@@ -10,10 +10,11 @@ body {
 header, h1, h2, h3 {
     color: #0f0;
 }
-header {
+header, h1, h2 {
     color: white;
+    font-family: 'Roboto', sans-serif;
     box-shadow: black;
-    background-color: rgba(211, 211, 211, 0.5);
+    
 }
   
 
